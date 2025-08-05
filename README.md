@@ -25,7 +25,7 @@ alibaba에서 판매되는 pfsense용 N100 미니 PC를 사용
 ```ASCII
 [PC1] ←→ [eth0]  BRIDGE-PC  [eth1] ←→ [PC2]
                    |
-                tcpdump 실행
+                suricata 실행
 ```
 
 ---
